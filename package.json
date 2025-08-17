@@ -1,8 +1,8 @@
 
 {
-  "name": "gaur-ecommerce",
+  "name": "BanduCart",
   "version": "1.0.0",
-  "description": "Alpha E-Commerce Project",
+  "description": "BanduCart E-Commerce Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
