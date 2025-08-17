@@ -1,2 +1,3 @@
-# Gaur_Ecommerce
-This is a E-Commerce website.
+
+# BanduCart
+This is a E-Commerce Website.
